@@ -1,0 +1,69 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One&family=Playpen+Sans:wght@300;400&family=Roboto:wght@100&family=Sometype+Mono:ital,wght@1,500&display=swap');
+
+.hola10{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+    font-family: 'Playpen Sans', cursive;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sometype Mono', monospace;
+    font-weight: 700;
+}
+
+.hola1{
+   
+    display: flex;
+    justify-content: center;
+}
+.hola1{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playpen Sans', cursive;
+font-family: 'Sometype Mono', monospace;
+}
+.hola2{
+   
+    display: flex;
+    justify-content: center;
+}
+
+.hola2{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playpen Sans', cursive;
+font-family: 'Sometype Mono', monospace;
+}
+
+.hola3{
+   
+    display: flex;
+    justify-content: center;
+}
+
+
+.juliA{
+    display: flex;
+    justify-content: center;
+
+  
+}
+.juliA img{
+     height: 50px;
+    width: 200px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*.hola10{
+    font-family: 'Alumni Sans Collegiate One', sans-serif;
+font-family: 'Playpen Sans', cursive;
+font-family: 'Roboto', sans-serif;
+font-family: 'Sometype Mono', monospace;
+}
+
+
+.hola10{
+   
+    display: flex;
+    justify-content: center;
+}*/

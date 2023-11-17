@@ -1,0 +1,31 @@
+/*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+.contenedor-flex{
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.item{
+    border: 1px solid rgb(0, 225, 255);
+    background-color:aquamarine ;
+}
+
+@media (min-width:800px) {
+    .contenedor-flex{
+       flex-direction: row;
+        justify-content: start;
+
+        
+    }
+
+.item{
+    background-color:aquamarine ;
+    flex: 1;
+    text-align: center;
+}
+}
+
